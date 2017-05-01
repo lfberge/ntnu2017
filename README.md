@@ -1,2 +1,1 @@
-# ntnu2017
-Jupyter
+# NTNU 2017
